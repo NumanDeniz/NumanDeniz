@@ -1,4 +1,3 @@
-![MasterHead](https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/choose-your-weapon-programmer-for-men-women-kids-python-java-c-crazy-squirrel.jpg)
 
 <h1 align="center">Hi 👋, I'm Numan Deniz</h1>
 - 🔭 I’m currently working on **Java**
